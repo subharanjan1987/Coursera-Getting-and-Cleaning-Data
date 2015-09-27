@@ -71,4 +71,4 @@ head(result)
 write.table(result, "data_with_means.txt", row.names = FALSE) # step 5
 
 # data <- read.table("./data_with_means.txt")
-# data[1:12, 1:3]
+
